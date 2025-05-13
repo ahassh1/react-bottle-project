@@ -1,15 +1,27 @@
-import React, { use } from 'react';
+import React, { use, useState } from 'react';
 import Bottle from '../Bottle/Bottle';
+import './Bottles.css'
 
 const Bottles = ({bottlesPromise}) => {
+ 
+  const [card, setCard] =useState([])
+
     const bottles  = use(bottlesPromise);
-    // console.log(bottles)
+
+    const handleAddToCard =(bottle)=>{
+      console.log('bottle is going to be fullfill',bottle)
+    }
+   
     return (
-        <div>
+        <div >
               <h3>Bottles: {bottles.length}</h3>
-              {
-                bottles.map(bottle => <Bottle  key={bottle.id} bottle={bottle}></Bottle>)
+           <div className='bottles-container'>
+                  {
+                bottles.map(bottle => <Bottle  key={bottle.id}
+                  handleAddToCard={handleAddToCard}
+                  bottle={bottle}></Bottle>)
               }
+           </div>
         </div>
     );
 };

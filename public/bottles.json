@@ -48,5 +48,55 @@
     "insulated": true,
     "price": 39.99,
     "image": "https://media.istockphoto.com/id/1423379549/vector/blank-metal-insulated-water-bottle-vector-mockup-reusable-stainless-steel-travel-sport-flask.jpg?s=612x612&w=0&k=20&c=mXeJNB9xF7jh2Q8mGxkuenoyhEcgxdaBx9BaffVDb6k="
+  },
+  {
+    "id": 6,
+    "brand": "Nalgene",
+    "capacity": 1000,
+    "material": "Tritan Plastic",
+    "color": "Clear",
+    "insulated": false,
+    "price": 10.99,
+    "image": "https://media.istockphoto.com/id/1423379549/vector/blank-metal-insulated-water-bottle-vector-mockup-reusable-stainless-steel-travel-sport-flask.jpg?s=612x612&w=0&k=20&c=mXeJNB9xF7jh2Q8mGxkuenoyhEcgxdaBx9BaffVDb6k="
+  },
+  {
+    "id": 7,
+    "brand": "Nalgene",
+    "capacity": 1000,
+    "material": "Tritan Plastic",
+    "color": "Clear",
+    "insulated": false,
+    "price": 10.99,
+    "image": "https://media.istockphoto.com/id/1423379549/vector/blank-metal-insulated-water-bottle-vector-mockup-reusable-stainless-steel-travel-sport-flask.jpg?s=612x612&w=0&k=20&c=mXeJNB9xF7jh2Q8mGxkuenoyhEcgxdaBx9BaffVDb6k="
+  },
+  {
+    "id": 8,
+    "brand": "Nalgene",
+    "capacity": 1000,
+    "material": "Tritan Plastic",
+    "color": "Clear",
+    "insulated": false,
+    "price": 10.99,
+    "image": "https://media.istockphoto.com/id/1423379549/vector/blank-metal-insulated-water-bottle-vector-mockup-reusable-stainless-steel-travel-sport-flask.jpg?s=612x612&w=0&k=20&c=mXeJNB9xF7jh2Q8mGxkuenoyhEcgxdaBx9BaffVDb6k="
+  },
+  {
+    "id": 9,
+    "brand": "Nalgene",
+    "capacity": 1000,
+    "material": "Tritan Plastic",
+    "color": "Clear",
+    "insulated": false,
+    "price": 10.99,
+    "image": "https://media.istockphoto.com/id/1423379549/vector/blank-metal-insulated-water-bottle-vector-mockup-reusable-stainless-steel-travel-sport-flask.jpg?s=612x612&w=0&k=20&c=mXeJNB9xF7jh2Q8mGxkuenoyhEcgxdaBx9BaffVDb6k="
+  },
+  {
+    "id": 10,
+    "brand": "Nalgene",
+    "capacity": 1000,
+    "material": "Tritan Plastic",
+    "color": "Clear",
+    "insulated": false,
+    "price": 10.99,
+    "image": "https://media.istockphoto.com/id/1423379549/vector/blank-metal-insulated-water-bottle-vector-mockup-reusable-stainless-steel-travel-sport-flask.jpg?s=612x612&w=0&k=20&c=mXeJNB9xF7jh2Q8mGxkuenoyhEcgxdaBx9BaffVDb6k="
   }
 ]

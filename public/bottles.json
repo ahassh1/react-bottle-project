@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "brand": "Hydro Flask",
+    "capacity": 750,
+    "material": "Stainless Steel",
+    "color": "Ocean Blue",
+    "insulated": true,
+    "price": 34.99,
+    "image": "https://m.media-amazon.com/images/I/71v5hxXZ2SL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 2,
+    "brand": "CamelBak",
+    "capacity": 1000,
+    "material": "Plastic",
+    "color": "Black",
+    "insulated": false,
+    "price": 12.50,
+    "image": "https://m.media-amazon.com/images/I/61+Q6RhB5EL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 3,
+    "brand": "S'well",
+    "capacity": 500,
+    "material": "Stainless Steel",
+    "color": "Rose Gold",
+    "insulated": true,
+    "price": 29.95,
+    "image": "https://m.media-amazon.com/images/I/71Qx1UZ5UIL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 4,
+    "brand": "Nalgene",
+    "capacity": 1000,
+    "material": "Tritan Plastic",
+    "color": "Clear",
+    "insulated": false,
+    "price": 10.99,
+    "image": "https://m.media-amazon.com/images/I/61+4GqGXJTL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 5,
+    "brand": "Yeti",
+    "capacity": 1000,
+    "material": "Stainless Steel",
+    "color": "White",
+    "insulated": true,
+    "price": 39.99,
+    "image": "https://m.media-amazon.com/images/I/71vX00yRDVL._AC_UF1000,1000_QL80_.jpg"
+  }
+]

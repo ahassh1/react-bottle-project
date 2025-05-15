@@ -4,17 +4,20 @@ import './Bottles.css'
 
 const Bottles = ({bottlesPromise}) => {
  
-  const [card, setCard] =useState([])
+  const [cart, setCard] =useState([])
 
     const bottles  = use(bottlesPromise);
 
     const handleAddToCard =(bottle)=>{
-      console.log('bottle is going to be fullfill',bottle)
+      // console.log('bottle is going to be fullfill',bottle)
+      const newCart= [...cart,bottle];
+      setCard(newCart);
     }
    
     return (
         <div >
               <h3>Bottles: {bottles.length}</h3>
+              <p>Added to cart:{cart.length}</p>
            <div className='bottles-container'>
                   {
                 bottles.map(bottle => <Bottle  key={bottle.id}
